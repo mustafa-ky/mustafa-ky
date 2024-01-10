@@ -1,19 +1,22 @@
 ### Hi there 👋, I'm Mustafa
 and I'm a Graphic Designer.
 
+a few examples of logos I've made:
 
+<ul>
+<img src="LogolarOrnek/Ornek2.png" alt="alt text" width="320" height="180">
+<img src="LogolarOrnek/Artboard_4-5.png" alt="alt text" width="320" height="180">
+</ul>
+
+<ul>
+<img src="LogolarOrnek/1.jpg" alt="alt text" width="320" height="320">
+<img src="LogolarOrnek/2.jpg" alt="alt text" width="320" height="320">
+</ul>
+
+<ul>
+<img src="LogolarOrnek/ulog_2Alternative.png" alt="alt text" width="320" height="320">
+</ul>
 
 <!--
-**mustafa-ky/mustafa-ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<li class="clear"></li>
 -->
