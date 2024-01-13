@@ -4,7 +4,7 @@ and I'm a Graphic Designer.
 a few examples of logos I've made:
 
 <ul>
-<img src="LogolarOrnek/derlg.png" alt="alt text">
+<img src="LogolarOrnek/derlg.png" alt="alt text" width="360" height="640">
 </ul>
 
 
