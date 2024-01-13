@@ -4,6 +4,13 @@ and I'm a Graphic Designer.
 a few examples of logos I've made:
 
 <ul>
+<img src="LogolarOrnek/derlg.png" alt="alt text">
+</ul>
+
+
+<!--
+
+<ul>
 <img src="LogolarOrnek/Ornek2.png" alt="alt text" width="160" height="90">
 <img src="LogolarOrnek/Artboard_4-5.png" alt="alt text" width="160" height="90">
 </ul>
@@ -17,6 +24,6 @@ a few examples of logos I've made:
 <img src="LogolarOrnek/ulog_2Alternative.png" alt="alt text" width="160" height="160">
 </ul>
 
-<!--
+
 <li class="clear"></li>
 -->
